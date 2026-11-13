@@ -1,7 +1,8 @@
 package Unit_02.Chapter_02.Q_02_02_02;
 import java.util.Scanner;
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Scanner scannerObj = new Scanner(System.in);
         String C = scannerObj.nextLine();
 
